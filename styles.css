@@ -207,7 +207,7 @@
     align-items: center;
     justify-self: center;
     margin: 0 auto;
-    height: 90vh;
+    height: 92.4vh;
     background-color: #141414;
     z-index: 1;
     width: 100%;
@@ -354,7 +354,7 @@
     font-family: 'Poppins',sans-serif;
 }
 .about{
-    min-height: 100vh;
+    min-height: 92.4vh;
     width: 100%;
     padding: 78px 0px;
     background-color: #141414;
